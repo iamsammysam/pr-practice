@@ -8,7 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+I am modifying content here! Whatcha gonna do about it, huh?
 
 ## Person C:
 
