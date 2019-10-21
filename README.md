@@ -13,6 +13,10 @@ Person B should modify content here.
 ## Person C:
 
 Hi, my favorite color id blue.
+
+This is in response to the comments
+
+hjkhjkljj;ljkl;jkljkl;
 ## Person D:
 
 Person D should modify content here.
