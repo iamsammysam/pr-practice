@@ -16,7 +16,7 @@ Person C should modify content here.
 
 ## Person D:
 
-Person D should modify content here.
+Herein lies Hallie's update to the README.
 
 ## Need inspiration?
 
